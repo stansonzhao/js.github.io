@@ -5,8 +5,8 @@ date: 2019-08-15 13:32:20 +0300
 description: 这是我第一篇博客，很有纪念意义 # Add post description (optional)
 img:  welcome.jpg # Add image post (optional)
 ---
-# 初次
 这是我一次尝试的结果，展示内容比较不尽人意，大家包含一下，新手第一个作品。
+
 ## >为什么要做博客
 程序员嘛，肯定得有个记录分享自己学习过程的地方~
 
