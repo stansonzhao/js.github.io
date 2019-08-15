@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 海底捞
-date: 2017-09-12 00:00:00 +0300
+date: 2019-08-15 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: fei.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
@@ -18,9 +18,11 @@ tags: [Productivity, Software] # add tag
 
 本以为海底捞服务做到好吃好喝的候着就已经很不错了，绝没想到还有送毛巾这个操作，虽然不用了要回收，但是吃过这么多家饭店，没有一家做到这个份儿上，可想海底捞在服务这块投入了多少。
 
-后面来了一个孕妇，冰饮料也换成了温白开，细节真的处处体现，乍舌的是后面来了一小姐姐，在孕妇旁教折小纸鹤，连肚子里的小宝宝的床边挂饰都考虑到了，真的震惊了。真是应了那句只有你想不到，没有海底捞做不到的。
+后面来了一个孕妇，冰饮料也换成了温白开，细节真的处处体现，乍舌的是来了一小姐姐，在孕妇旁教折小纸鹤，连肚子里的小宝宝的床边挂饰都考虑到了，真的震惊了。真是应了那句只有你想不到，没有海底捞做不到的。
+
 
 # 等了一个多小时终于吃到了
+    服务员亲切的送上了护衣~
 
 ## 我自己调的蘸碟
 ![蘸碟]({{site.baseurl}}/assets/img/caid.jpg)
