@@ -1,22 +1,26 @@
 ---
 layout: post
-title: The Best Organizer Software
+title: [番外]海底捞
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+早闻海底捞服务打天下~，各种帮食客省心，今天也有幸见识了一番。
 
-### Church-key blog messenger bag
+![火锅]({{site.baseurl}}/assets/img/fei.jpg)
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
+一路小走到了海底捞茂业店，刚看到门店标牌就震惊到了，等候区几乎坐满了人，不过都没闲着，海底捞发挥了服务特长——几乎每人手里都拿着免费提供的小零食、饮料、粥(给粥是想让顾客吃饱了然后少赚点钱嘛？？)等等
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
+还没看个仔细，就被服务员请进了候餐区等待就餐，殷勤的帮忙把凳子抽出来，这边抽着凳子，那边就端着饮料零食走来。这速度和服务态度我给满分~
 
-### Pour-over blue bottle woke listicle
+正吃着爆米花喝着饮料，又发生了让我目瞪狗呆的一幕，一位小姐姐端个篮子徐徐走来，亲切的问道需要毛巾擦手嘛？我一阵黑人问号脸？？？旁边放着面纸，这边又来个送毛巾的？？抱着享受的心态拿了一条，一到手又是一惊 我擦 还是热的，还是先擦脸再擦手把，还未碰到脸就闻到了一股草药香味，心里又是大惊。。。。
 
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
+本以为海底捞服务做到好吃好喝的候着就已经很不错了，绝没想到还有送毛巾这个操作，虽然不用了要回收，但是吃过这么多家饭店，没有一家做到这个份儿上，可想海底捞在服务这块投入了多少。
 
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+后面来了一个孕妇，冰饮料也换成了温白开，细节真的处处体现，乍舌的是后面来了一小姐姐，在孕妇旁教折小纸鹤，连肚子里的小宝宝的床边挂饰都考虑到了，真的震惊了。真是应了那句只有你想不到，没有海底捞做不到的。
+
+![蘸碟]({{site.baseurl}}/assets/img/cai.jpg)
+
+![蘸碟]({{site.baseurl}}/assets/img/cai1.jpg)
