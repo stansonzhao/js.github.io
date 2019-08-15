@@ -12,7 +12,7 @@ img:  welcome.jpg # Add image post (optional)
 
 
 ## >这个库的作用
-这个库用来记录我JavaScript的学习心得
+这个库用来记录我JavaScript的学习心得以及生活趣事
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
