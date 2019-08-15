@@ -9,7 +9,6 @@ tags: [Productivity, Software] # add tag
 
 早闻海底捞服务打天下~，各种帮食客省心，今天也有幸见识了一番。
 
-![火锅]({{site.baseurl}}/assets/img/fei.jpg)
 
 一路小走到了海底捞茂业店，刚看到门店标牌就震惊到了，等候区几乎坐满了人，不过都没闲着，海底捞发挥了服务特长——几乎每人手里都拿着免费提供的小零食、饮料、粥(给粥是想让顾客吃饱了然后少赚点钱嘛？？)等等
 
@@ -21,6 +20,6 @@ tags: [Productivity, Software] # add tag
 
 后面来了一个孕妇，冰饮料也换成了温白开，细节真的处处体现，乍舌的是后面来了一小姐姐，在孕妇旁教折小纸鹤，连肚子里的小宝宝的床边挂饰都考虑到了，真的震惊了。真是应了那句只有你想不到，没有海底捞做不到的。
 
-![蘸碟]({{site.baseurl}}/assets/img/cai.jpg)
+![蘸碟]({{site.baseurl}}/assets/img/caid.jpg)
 
-![蘸碟]({{site.baseurl}}/assets/img/cai1.jpg)
+![蘸碟]({{site.baseurl}}/assets/img/caid1.jpg)
