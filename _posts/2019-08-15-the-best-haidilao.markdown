@@ -4,7 +4,7 @@ title: 享受海底捞
 date: 2019-08-15 23:00:00 +0000
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: fei.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [海底捞, GOOD] # add tag
 ---
 
 早闻海底捞服务打天下~，各种帮食客省心，今天也有幸见识了一番。
