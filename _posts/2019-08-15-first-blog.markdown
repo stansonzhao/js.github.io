@@ -3,7 +3,7 @@ layout: post
 title: JS入门之堆、栈
 date: 2019-08-15 13:32:20 +0300
 description: JS的堆和栈. # Add post description (optional)
-img: js-1.jpg # Add image post (optional)
+img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [堆, 栈]
 ---
