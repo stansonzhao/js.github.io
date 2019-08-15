@@ -3,7 +3,7 @@ layout: post
 title: [番外]海底捞之旅
 date: 2019-08-15 21:32:20 +0300
 description: 海底捞到底怎么样. # Add post description (optional)
-img: fei.jpg # Add image post (optional)
+img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [番外, 海底捞]
 ---
