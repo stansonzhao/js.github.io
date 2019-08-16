@@ -6,7 +6,7 @@ description: 每个语言都有运算符，它们长的一样，用发却时同�
 img: js-1.png # Add image post (optional)
 tags: [Js, 运算符] # add tag
 ---
-每个语言都有运算符，它们长的一样，用发却时同时而不同。让我们一起看看JS中运算符吧。
+JavaScript (usually abbreviated as JS) is an advanced, interpreted programming language. JavaScript is a prototype-based, function-first language, a multi-paradigm language that supports object-oriented programming, imperative programming, and functional programming.Today we learn about Operator
 
 # JS操作运算符
     运算操作符  + 、-、*、 /、 %、 =、 ()、 ++、 --、 +=、 -=、 *=、%=
