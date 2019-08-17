@@ -1,11 +1,11 @@
 ---
 layout: post
 title: JS入门之预编译
-date: 2019-08-17 17:32:20 +0000
+date: 2019-08-17 17:40:20 +0000
 description: JS的类型转换. # Add post description (optional)
 img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [类型转换, 隐式&显示]
+tags: [预编译]
 ---
 JavaScript (usually abbreviated as JS) is an advanced, interpreted programming language. JavaScript is a prototype-based, function-first language, a multi-paradigm language that supports object-oriented programming, imperative programming, and functional programming.Today we learn about Precompiled
 # 预编译
