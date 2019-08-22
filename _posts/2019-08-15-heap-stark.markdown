@@ -15,6 +15,7 @@ JavaScript (usually abbreviated as JS) is an advanced, interpreted programming l
     JS中，数据分为两种类型值，原始值和引用值
     原始值:Number string  boolean  undefined  null
     引用值:array Object function date RegExp...
+
 **原始值变量名存储的栈内存中，而其数据值存在堆内存地址之中**
 
 > 原始值存储在栈内存中  
@@ -28,6 +29,7 @@ JavaScript (usually abbreviated as JS) is an advanced, interpreted programming l
         类似于我们的书架，想用直接取出，不用挪动其它书本。
 
 ## **常见面试题**
+
 ```JS
     //原始值之间赋值
     var a = 20;
