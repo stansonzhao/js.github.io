@@ -28,7 +28,7 @@ JavaScript (usually abbreviated as JS) is an advanced, interpreted programming l
     堆内存存储方式[随用随取，与其它数据无关]
         类似于我们的书架，想用直接取出，不用挪动其它书本。
 
-## **常见面试题**
+## 常见面试题
 
 ```JS
     //原始值之间赋值
