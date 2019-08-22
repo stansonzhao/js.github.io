@@ -36,9 +36,11 @@ JavaScript (usually abbreviated as JS) is an advanced, interpreted programming l
     var b = a;
     b = 40;
 ``` 
+
 问此时a的值是多少？
     
     原始值之间赋值 新建个变量b，此时b值为空，继而获取a的堆内存的地址，查询到a的值，而后将a的值再赋给新建变量b，此时a和b互不关联。所以更改b的值后a的值并不会变，所以a的值仍为20。
+    
 ```JS
     //引用值之间赋值
     var arr = [1,2,3,4];
