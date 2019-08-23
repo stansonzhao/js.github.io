@@ -7,9 +7,8 @@ img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [堆, 栈]
 ---
-JavaScript (usually abbreviated as JS) is an advanced, interpreted programming language. JavaScript is a prototype-based, function-first language, a multi-paradigm language that supports object-oriented programming, imperative programming, and functional programming.Today we learn about 'stark'&'heap'
----
-# 堆(stark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 栈(heap)
+
+# 堆(stark) & 栈(heap)
 
 ## 了解堆和栈之前先了解一下JS数据类型
     JS中，数据分为两种类型值，原始值和引用值
