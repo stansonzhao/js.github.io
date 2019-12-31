@@ -2,7 +2,7 @@
 layout: post
 title: JS入门-引用值
 date: 2019-10-24 12:40:20 +0000
-description: JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值JS引用值. # Add post description (optional)
+description: JS引用值. # Add post description (optional)
 img: js-1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [引用值,JS]
